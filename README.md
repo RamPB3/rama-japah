@@ -1,6 +1,4 @@
 # rama-japah
-Here’s a **detailed and polished README** file tailored specifically for your **Rama Japah** project:  
-
 ---
 
 # Rama Japah
