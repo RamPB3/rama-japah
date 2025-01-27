@@ -96,5 +96,3 @@ For inquiries, suggestions, or feedback, feel free to reach out:
 🌐 [RAMA-japah.com](https://rama-japah.netlify.app/)
 
 ---
-
-This version is clean, detailed, and professional, making your project more approachable to users and contributors.
