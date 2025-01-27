@@ -94,8 +94,8 @@ We welcome contributions to enhance the functionality of Rama Japah. To contribu
 ## 📬 Contact
 
 For inquiries, suggestions, or feedback, feel free to reach out:  
-📧 **your-email@example.com**  
-🌐 [YourWebsite.com](https://rama-japah.netlify.app/)
+📧 **rampravesh92055@gmail.com,jailakshmi453537@gmail.com**  
+🌐 [RAMA-japah.com](https://rama-japah.netlify.app/)
 
 ---
 
