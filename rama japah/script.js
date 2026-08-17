@@ -1,4 +1,4 @@
-const API_KEY = 'AIzaSyANiGeOA6X-PVT98dD74KGIRXBB8c2vERo';
+const API_KEY = 'Y';
 
 let nextPageToken = ''; // Token to fetch the next set of videos
 let isLoading = false; // Flag to prevent multiple simultaneous requests
